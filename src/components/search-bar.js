@@ -4,7 +4,7 @@ class SearchBar extends Component {
     constructor(props) {
         super(props);
 
-        this.state = { term: 'search term' };
+        this.state = { term: 'surfboard' };
     }
 
     render() {
